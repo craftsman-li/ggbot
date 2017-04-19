@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/KevinGong2013/wechat"
+	"github.com/craftsman-li/wechat"
 	"github.com/pressly/chi"
 	"github.com/pressly/chi/middleware"
 

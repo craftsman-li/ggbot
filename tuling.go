@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/KevinGong2013/wechat"
+	"github.com/craftsman-li/wechat"
 )
 
 type tuling struct {

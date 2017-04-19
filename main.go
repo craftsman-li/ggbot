@@ -4,9 +4,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/KevinGong2013/ggbot/service"
-	"github.com/KevinGong2013/ggbot/uuidprocessor"
-	"github.com/KevinGong2013/wechat"
+	"github.com/craftsman-li/ggbot/service"
+	"github.com/craftsman-li/ggbot/uuidprocessor"
+	"github.com/craftsman-li/wechat"
 	"github.com/Sirupsen/logrus"
 	"gopkg.in/yaml.v2"
 )

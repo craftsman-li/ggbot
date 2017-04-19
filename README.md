@@ -49,17 +49,17 @@ features:
 > apikey 可以在图灵机器人的官网免费申请 [点击这里立即申请](http://www.tuling123.com)
 
 ### 二次开发
-本机器人基于[wechat](https://github.com/KevinGong2013/wechat)开发
+本机器人基于[wechat](https://github.com/craftsman-li/wechat)开发
 ###### 安装`go-lang`开发环境
 [传送门](https://www.golang.org)
 
 ###### 安装`wechat`包
 ``` go
-go get github.com/KevinGong2013/wechat
+go get github.com/craftsman-li/wechat
 ```
 ###### clone 源码
 ``` go
-git clone https://github.com/KevinGong2013/ggbot.git
+git clone https://github.com/craftsman-li/ggbot.git
 ```
 ###### 编译运行
 ``` bash

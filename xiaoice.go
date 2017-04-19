@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	wx "github.com/KevinGong2013/wechat"
+	wx "github.com/craftsman-li/wechat"
 )
 
 type xiaoice struct {

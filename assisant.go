@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/KevinGong2013/wechat"
+	"github.com/craftsman-li/wechat"
 )
 
 type assisant struct {

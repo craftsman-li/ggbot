@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/KevinGong2013/ggbot/bridge/arg"
-	r "github.com/KevinGong2013/ggbot/bridge/result"
+	"github.com/craftsman-li/ggbot/bridge/arg"
+	r "github.com/craftsman-li/ggbot/bridge/result"
 	log "github.com/Sirupsen/logrus"
 )
 

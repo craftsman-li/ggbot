@@ -1,9 +1,9 @@
 package bridge
 
 import (
-	"github.com/KevinGong2013/ggbot/bridge/arg"
-	"github.com/KevinGong2013/ggbot/bridge/result"
-	"github.com/KevinGong2013/wechat"
+	"github.com/craftsman-li/ggbot/bridge/arg"
+	"github.com/craftsman-li/ggbot/bridge/result"
+	"github.com/craftsman-li/wechat"
 )
 
 //login client will login this uuid
